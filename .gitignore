@@ -1,9 +1,0 @@
-debian/.debhelper/
-debian/debhelper-build-stamp
-debian/files
-debian/subversion-archive.debhelper.log
-debian/subversion-archive.substvars
-debian/subversion-archive/
-package/
-
-
